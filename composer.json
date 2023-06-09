@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vcs\\HaveAllPostMeta\\": "have-all-post-meta.php"
+            "Vcs\\HaveAllPostMeta\\": "src/"
         }
     },
     "authors": [
