@@ -4,6 +4,7 @@
  * Plugin URI: https://github.com/haveboard/have-all-post-meta 
  * Description: Quick and dirty way to add wp panel to display all post meta for a post type.
  * Version: 1
+ * License: MIT
  * Author: haveboard
  * Author URI: https://jonathanfinnegan.com
  *

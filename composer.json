@@ -1,0 +1,18 @@
+{
+    "name": "vcs/have-all-post-meta",
+    "description": "DEVelopment plugin, adds a meta box to each edit page and shows a print_r of all post meta data for an entry\"",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vcs\\HaveAllPostMeta\\": "have-all-post-meta.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "haveboard",
+            "email": "jonathan.finnegan@gmail.com"
+        }
+    ],
+    "require": {}
+}
