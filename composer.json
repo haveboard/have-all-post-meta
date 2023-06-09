@@ -14,7 +14,9 @@
             "email": "jonathan.finnegan@gmail.com"
         }
     ],
-  "require": {
-    "php": ">=7.1"
-  }
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.1"
+    }
 }
