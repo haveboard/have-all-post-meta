@@ -1,12 +1,12 @@
 {
-    "name": "vcs/have-all-post-meta",
+    "name": "haveboard/have-all-post-meta",
     "version": "1.0.0",
     "description": "DEVelopment plugin, adds a meta box to each edit page and shows a print_r of all post meta data for an entry\"",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vcs\\HaveAllPostMeta\\": "src/"
+            "Paveboard\\HaveAllPostMeta\\": "src/"
         }
     },
     "authors": [
