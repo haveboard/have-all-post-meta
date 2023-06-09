@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Haveboard\\HaveAllPostMeta\\": "src/have-all-post-meta.php"
+            "Haveboard\\HaveAllPostMeta\\": "have-all-post-meta.php"
         }
     },
     "authors": [
